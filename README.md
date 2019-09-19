@@ -1,2 +1,2 @@
 # Android_End2End_dataset_design
-This is script file for design of dataset for end-to-end learning of Android malware detection. Setting of paths is necessary.  
+Dex_extraction.sh script is for reverse enigneering of all the Android apks, unzip the apks to extract dex file
