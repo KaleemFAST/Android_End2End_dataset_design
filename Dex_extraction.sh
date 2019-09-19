@@ -1,6 +1,6 @@
 #!/bin/bash
-cd /media/kaleem/Suleman/All_APKs
-for i in /media/kaleem/Suleman/DataSet/*
+cd /directory1/directory2/directory3/All_APKs  #path to the apks folder
+for i in DataSet/*
 do
-  apktool d -r -s $i
+  apktool d -r -s $i     
 done
