@@ -33,8 +33,7 @@ with open("/media/kaleem/Entertainment/Dexfiles/m.txt") as g:
                     count1=count1 + 1
                     counter=counter + 1;
                   count = count + 1
-          counter=counter+2;
-               
+          counter=counter+2;              
 
                
               
